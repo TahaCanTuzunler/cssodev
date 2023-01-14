@@ -1,0 +1,19 @@
+body {
+    background-color:#0ae2e2;
+    text-align: center;
+    list-style-position: inside;
+    
+    
+}
+
+a {
+    color: deeppink;
+}
+
+h1 {
+    color:rgba(62, 199, 8, 0.959);
+}
+
+h2 {
+    color: blueviolet;
+}
